@@ -43,9 +43,4 @@ I enjoy working in interdisciplinary teams and connecting with people who are dr
 <a href="https://www.linkedin.com/in/thisongthupham" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /></a>
 </p>
 
----
 
-### 📊 GitHub Stats  
-<a href="https://github.com/thupts" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thupts&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
